@@ -1,5 +1,5 @@
 <html>
-  <title>New Project</title>
+  <title>Sample Page</title>
 <body>
 <h2>Hello World!</h2>
 </body>
